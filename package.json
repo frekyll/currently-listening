@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "bankai build index.js --base https://frekyll.github.io/currently-listening",
+    "deploy": "gh-pages -d dist",
     "start": "bankai start index.js",
     "test": "standard index.js"
   },
