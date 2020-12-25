@@ -1,6 +1,6 @@
 {
   "name": "currently-listening",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An ongoing catalog of heartening music",
   "main": "index.js",
   "scripts": {
