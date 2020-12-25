@@ -1,0 +1,44 @@
+[
+  {
+    "album": "Stills",
+    "artist": "God Help the Girl",
+    "genre": "Alternative",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b5/55/3c/mzi.cnhlzrqp.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/stills/326030161"
+  },
+  {
+    "album": "Beautiful Hummingbird",
+    "artist": "Beautiful Hummingbird",
+    "genre": "J-Pop",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/2a/5c/84/2a5c846a-ad19-7eac-dfeb-b7fa3bf6ae49/Cover.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/beautiful-hummingbird/593145707"
+  },
+  {
+    "album": "c.1300-c.2000",
+    "artist": "Jeremy Denk",
+    "genre": "Classical",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/57/59/ea/5759ea5d-8a05-0b7b-a826-6b735b3317b1/075597934694.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/c-1300-c-2000/1440873829"
+  },
+  {
+    "album": "Ginga",
+    "artist": "Ikuko Harada",
+    "genre": "J-Pop",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/c6/a6/mzi.xcubsbtd.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/ginga/294403078"
+  },
+  {
+    "album": "Nordhem",
+    "artist": "Henrik Lindstrand",
+    "genre": "Classical",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/04/a6/e7/04a6e753-94c6-af44-dae5-a606b4b0873c/5016958096724.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/nordhem/1520099805"
+  },
+  {
+    "album": "Michi Wa Tsuzuku",
+    "artist": "Humbert Humbert",
+    "genre": "J-Pop",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/ce/cf/eb/cecfebfb-81ac-3e6d-9916-f800cfc65b9f/11731400.jpg/1000x1000bb-60.jpg",
+    "link": "https://music.apple.com/us/album/道はつづく/1408516337"
+  }
+]
