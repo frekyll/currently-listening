@@ -5,7 +5,7 @@ css('tachyons')
 
 const albumData = require('./albums.json')
 
-var siteData = {
+const siteData = {
   profileLink: 'https://www.frekyll.com'
 }
 
@@ -17,7 +17,7 @@ const globalStyle = css`
 
 function mainView () {
   return html`
-    <div class="avenir pa3 white">
+    <div class="${globalStyle} avenir pa3 white">
       ${header()}
       <div class="center cf mw8">
         <div class="nl2 nr2 nl3-m nr3-m">
