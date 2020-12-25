@@ -14,5 +14,8 @@
   "devDependencies": {
     "bankai": "^9.15.3",
     "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "tachyons": "^4.12.0"
   }
 }
